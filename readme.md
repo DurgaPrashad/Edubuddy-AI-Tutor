@@ -16,7 +16,7 @@ The AI Tutor is a React-based application that provides personalized tutoring th
 - **Persistent Smart Tutor (`persistent-smart-tutor.tsx`)**: A floating version of the Smart Tutor that remains accessible throughout the application, allowing users to get help at any time.
 
 - **Dashboard Page (`app/dashboard/ai-tutor/page.tsx`)**: A full-screen implementation of the Smart Tutor with additional features like subject selection and comprehensive progress tracking.
-![newww](https://github.com/user-attachments/assets/c043d5aa-7763-4caa-b8d9-e402cbdb8ef2)
+
 
 ### Features Implemented
 
@@ -59,3 +59,4 @@ To run the AI Tutor project:
 - Three.js (for 3D character rendering)
 - Tailwind CSS
 - [Additional libraries to be added as needed]
+![newww](https://github.com/user-attachments/assets/c043d5aa-7763-4caa-b8d9-e402cbdb8ef2)
