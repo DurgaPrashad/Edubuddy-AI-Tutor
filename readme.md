@@ -6,7 +6,7 @@ A modern, interactive AI tutoring system with a 3D character interface and adapt
 ![image](https://github.com/user-attachments/assets/5bd85f0e-d105-48f7-be26-55bf23364be7)
 
 The AI Tutor is a React-based application that provides personalized tutoring through an interactive AI character. The system features multiple interaction modes, subject-specific content, and an engaging user interface designed to enhance the learning experience.
-
+![image](https://github.com/user-attachments/assets/3ae096ea-be9f-475e-b395-b673a322a66b)
 ## Key Components
 
 ### Core Components
@@ -26,7 +26,7 @@ The AI Tutor is a React-based application that provides personalized tutoring th
 - Subject content components
 - User settings and customization options
 - Progress tracking and gamification elements
-![image](https://github.com/user-attachments/assets/3ae096ea-be9f-475e-b395-b673a322a66b)
+
 
 ## Current Progress
 
